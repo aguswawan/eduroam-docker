@@ -1,0 +1,42 @@
+dn: uid=user1,ou=pegawai,dc=example,dc=org
+cn: John Doe
+gidnumber: 500
+givenname: John
+homedirectory: /home/users/user1
+mail: johndoe@example.com
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Doe
+uid: user1
+uidnumber: 1004
+userpassword: pass123
+
+dn: uid=user2,ou=pegawai,dc=example,dc=org
+cn: Jane Smith
+gidnumber: 500
+givenname: Jane
+homedirectory: /home/users/user2
+mail: janesmith@example.com
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Smith
+uid: user2
+uidnumber: 1004
+userpassword: pass456
+
+dn: uid=user3,ou=pegawai,dc=example,dc=org
+cn: Michael Johnson
+gidnumber: 500
+givenname: Michael
+homedirectory: /home/users/user3
+mail: michaeljohnson@example.com
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Johnson
+uid: user3
+uidnumber: 1004
+userpassword: pass789
+

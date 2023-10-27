@@ -1,0 +1,82 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ID, ST=Yogyakarta, L=Yogyakarta, O=Universitas Anda, OU=Yogyakarta research and education network, CN=University Certificate Authority
+        Validity
+            Not Before: Oct 26 02:25:09 2023 GMT
+            Not After : Dec 25 02:25:09 2023 GMT
+        Subject: C=ID, ST=Yogyakarta, O=Universitas Anda, OU=Yogyakarta research and education network, CN=eduroam@universitas.ac.id/emailAddress=eduroam@universitas.ac.id
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c7:c1:f1:e9:f1:45:5c:32:be:7c:e1:5b:41:04:
+                    f2:d7:51:47:5a:be:0f:f4:84:03:19:38:00:17:1f:
+                    24:93:4f:58:b6:b7:c0:5d:72:be:86:da:ea:ac:16:
+                    a5:8d:fa:f7:2c:75:79:bf:f0:da:a2:bd:14:9b:16:
+                    90:c9:8b:03:67:88:87:e4:2e:9e:07:3e:44:c0:a6:
+                    43:80:39:59:a5:9a:2f:0b:4d:eb:28:f0:c5:6d:ed:
+                    82:78:79:38:a1:56:f2:27:ac:c7:59:7e:02:bb:45:
+                    69:94:59:bf:db:a9:a5:eb:27:51:e2:db:e8:60:12:
+                    9a:fe:4e:8c:bd:a8:3d:fd:1f:be:37:13:78:92:5f:
+                    a1:3e:62:5e:89:23:0e:9b:bb:8c:9e:1b:d5:2a:b3:
+                    3f:51:4f:d9:01:91:e6:eb:97:5b:14:dc:66:68:53:
+                    d5:66:21:71:65:ef:e5:fb:c4:8b:6f:28:1f:5c:cb:
+                    bc:5f:10:34:95:54:63:6b:58:c2:40:0d:49:f0:70:
+                    1a:d6:18:19:43:aa:3f:8b:8a:a5:8d:ee:1c:b9:a4:
+                    da:a3:3a:5d:7c:4d:9b:d8:0d:f4:eb:37:27:7d:ac:
+                    dd:dd:c8:bf:04:6b:05:9d:16:36:91:4d:d9:e2:13:
+                    2c:a8:73:4c:f0:74:98:b4:8c:aa:5f:f5:5a:2a:91:
+                    db:73
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Subject Key Identifier: 
+                61:A1:CC:ED:AA:B5:61:2D:86:D1:6F:E2:00:7C:5A:51:10:D6:65:F5
+            X509v3 Authority Key Identifier: 
+                4C:35:C1:73:D6:DC:BA:43:2A:7A:8F:A9:D2:C8:E8:00:AE:67:70:28
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        64:98:8e:66:bf:5d:dc:f3:97:5f:08:44:8d:8e:a6:59:0f:30:
+        84:34:1e:95:51:95:d1:d0:af:d3:5c:d4:5a:ab:4f:40:93:d2:
+        68:d0:45:c3:99:56:5b:5b:a7:16:bd:08:ae:da:10:d8:29:65:
+        d3:00:89:2a:67:49:0d:15:f0:94:b4:80:47:f1:26:4b:f7:a6:
+        e9:30:38:70:67:e3:bd:00:18:99:b9:2e:92:8f:8c:e4:b4:4f:
+        ec:d4:05:f6:83:8b:0b:78:0c:ef:ab:68:20:2e:d5:63:db:9b:
+        45:37:24:01:67:d6:92:7e:a3:1c:09:f8:fa:da:fd:03:6a:52:
+        21:cc:10:50:dc:9c:49:20:b1:dc:1b:56:91:53:18:ec:31:4f:
+        82:c6:0e:87:47:97:e3:0c:a3:2c:2c:78:8a:b6:86:b1:fc:25:
+        55:ec:68:e8:22:dd:9b:5c:a4:4b:25:b4:fe:d9:ff:50:fd:e2:
+        1a:86:de:66:8c:c7:b4:d0:2b:4b:8b:54:d7:10:8c:3f:61:93:
+        1f:cd:4e:12:38:26:d9:c5:d3:49:cb:b9:2e:60:21:d7:16:d8:
+        bc:49:7b:f8:7f:9d:73:dc:5c:50:63:e3:50:28:98:66:af:81:
+        e0:02:86:49:98:02:e3:0a:cb:d0:23:31:3b:50:41:b3:eb:3f:
+        df:74:99:ba
+-----BEGIN CERTIFICATE-----
+MIIERDCCAyygAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBsTELMAkGA1UEBhMCSUQx
+EzARBgNVBAgMCllvZ3lha2FydGExEzARBgNVBAcMCllvZ3lha2FydGExGTAXBgNV
+BAoMEFVuaXZlcnNpdGFzIEFuZGExMjAwBgNVBAsMKVlvZ3lha2FydGEgcmVzZWFy
+Y2ggYW5kIGVkdWNhdGlvbiBuZXR3b3JrMSkwJwYDVQQDDCBVbml2ZXJzaXR5IENl
+cnRpZmljYXRlIEF1dGhvcml0eTAeFw0yMzEwMjYwMjI1MDlaFw0yMzEyMjUwMjI1
+MDlaMIG/MQswCQYDVQQGEwJJRDETMBEGA1UECAwKWW9neWFrYXJ0YTEZMBcGA1UE
+CgwQVW5pdmVyc2l0YXMgQW5kYTEyMDAGA1UECwwpWW9neWFrYXJ0YSByZXNlYXJj
+aCBhbmQgZWR1Y2F0aW9uIG5ldHdvcmsxIjAgBgNVBAMMGWVkdXJvYW1AdW5pdmVy
+c2l0YXMuYWMuaWQxKDAmBgkqhkiG9w0BCQEWGWVkdXJvYW1AdW5pdmVyc2l0YXMu
+YWMuaWQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHwfHp8UVcMr58
+4VtBBPLXUUdavg/0hAMZOAAXHySTT1i2t8Bdcr6G2uqsFqWN+vcsdXm/8NqivRSb
+FpDJiwNniIfkLp4HPkTApkOAOVmlmi8LTeso8MVt7YJ4eTihVvInrMdZfgK7RWmU
+Wb/bqaXrJ1Hi2+hgEpr+Toy9qD39H743E3iSX6E+Yl6JIw6bu4yeG9Uqsz9RT9kB
+kebrl1sU3GZoU9VmIXFl7+X7xItvKB9cy7xfEDSVVGNrWMJADUnwcBrWGBlDqj+L
+iqWN7hy5pNqjOl18TZvYDfTrNyd9rN3dyL8EawWdFjaRTdniEyyoc0zwdJi0jKpf
+9VoqkdtzAgMBAAGjVzBVMBMGA1UdJQQMMAoGCCsGAQUFBwMCMB0GA1UdDgQWBBRh
+ocztqrVhLYbRb+IAfFpRENZl9TAfBgNVHSMEGDAWgBRMNcFz1ty6Qyp6j6nSyOgA
+rmdwKDANBgkqhkiG9w0BAQsFAAOCAQEAZJiOZr9d3POXXwhEjY6mWQ8whDQelVGV
+0dCv01zUWqtPQJPSaNBFw5lWW1unFr0IrtoQ2Cll0wCJKmdJDRXwlLSAR/EmS/em
+6TA4cGfjvQAYmbkuko+M5LRP7NQF9oOLC3gM76toIC7VY9ubRTckAWfWkn6jHAn4
++tr9A2pSIcwQUNycSSCx3BtWkVMY7DFPgsYOh0eX4wyjLCx4iraGsfwlVexo6CLd
+m1ykSyW0/tn/UP3iGobeZozHtNArS4tU1xCMP2GTH81OEjgm2cXTScu5LmAh1xbY
+vEl7+H+dc9xcUGPjUCiYZq+B4AKGSZgC4wrL0CMxO1BBs+s/33SZug==
+-----END CERTIFICATE-----

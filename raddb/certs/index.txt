@@ -1,0 +1,2 @@
+V	231225022509Z		01	unknown	/C=ID/ST=Yogyakarta/O=Universitas Anda/OU=Yogyakarta research and education network/CN=university.ac.id
+V	231225022509Z		02	unknown	/C=ID/ST=Yogyakarta/O=Universitas Anda/OU=Yogyakarta research and education network/CN=eduroam@universitas.ac.id/emailAddress=eduroam@universitas.ac.id

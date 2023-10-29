@@ -1,8 +1,8 @@
 ldap {
-        server = '172.17.0.2'
-        identity = 'cn=admin,dc=example,dc=org'
-        password = admin
-        base_dn = 'dc=example,dc=org'
+        server = LDAP_SERVER
+        identity = LDAP_IDENTITY
+        password = LDAP_PASSWORD
+        base_dn = LDAP_BASEDN
         sasl {
         }
         update {

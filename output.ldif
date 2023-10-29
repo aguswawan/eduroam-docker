@@ -9,7 +9,7 @@ objectclass: posixAccount
 objectclass: top
 sn: Doe
 uid: user1
-uidnumber: 1004
+uidnumber: 1101
 userpassword: pass123
 
 dn: uid=user2,ou=pegawai,dc=example,dc=org
@@ -23,7 +23,7 @@ objectclass: posixAccount
 objectclass: top
 sn: Smith
 uid: user2
-uidnumber: 1004
+uidnumber: 1102
 userpassword: pass456
 
 dn: uid=user3,ou=pegawai,dc=example,dc=org
@@ -37,6 +37,6 @@ objectclass: posixAccount
 objectclass: top
 sn: Johnson
 uid: user3
-uidnumber: 1004
+uidnumber: 1103
 userpassword: pass789
 

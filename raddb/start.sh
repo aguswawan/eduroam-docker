@@ -21,7 +21,8 @@ sed -i -e "s/LDAP_SERVER/$LDAP_SERVER/g" \
 
 sed -i -e "s/EDUROAM_FLR/$EDUROAM_FLR/g" \
        -e "s/FLR_EDUROAM_SECRET/$FLR_EDUROAM_SECRET/g" \
-       -e "s/YOUR_REALM/$YOUR_REALM/g"  \
+       -e "s/YOUR_REALM1/$YOUR_REALM1/g"  \
+       -e "s/YOUR_REALM2/$YOUR_REALM2/g"  \
 	   /etc/freeradius/3.0/proxy.conf
 
 
